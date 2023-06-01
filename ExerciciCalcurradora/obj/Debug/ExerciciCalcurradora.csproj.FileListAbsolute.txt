@@ -1,0 +1,11 @@
+C:\DAM2\M3UF4\Exercicis\ExerciciCalcurradora\ExerciciCalcurradora\bin\Debug\ExerciciCalcurradora.exe.config
+C:\DAM2\M3UF4\Exercicis\ExerciciCalcurradora\ExerciciCalcurradora\bin\Debug\ExerciciCalcurradora.exe
+C:\DAM2\M3UF4\Exercicis\ExerciciCalcurradora\ExerciciCalcurradora\bin\Debug\ExerciciCalcurradora.pdb
+C:\DAM2\M3UF4\Exercicis\ExerciciCalcurradora\ExerciciCalcurradora\obj\Debug\ExerciciCalcurradora.csproj.AssemblyReference.cache
+C:\DAM2\M3UF4\Exercicis\ExerciciCalcurradora\ExerciciCalcurradora\obj\Debug\ExerciciCalcurradora.csproj.SuggestedBindingRedirects.cache
+C:\DAM2\M3UF4\Exercicis\ExerciciCalcurradora\ExerciciCalcurradora\obj\Debug\ExerciciCalcurradora.FormCalcurradora.resources
+C:\DAM2\M3UF4\Exercicis\ExerciciCalcurradora\ExerciciCalcurradora\obj\Debug\ExerciciCalcurradora.Properties.Resources.resources
+C:\DAM2\M3UF4\Exercicis\ExerciciCalcurradora\ExerciciCalcurradora\obj\Debug\ExerciciCalcurradora.csproj.GenerateResource.cache
+C:\DAM2\M3UF4\Exercicis\ExerciciCalcurradora\ExerciciCalcurradora\obj\Debug\ExerciciCalcurradora.csproj.CoreCompileInputs.cache
+C:\DAM2\M3UF4\Exercicis\ExerciciCalcurradora\ExerciciCalcurradora\obj\Debug\ExerciciCalcurradora.exe
+C:\DAM2\M3UF4\Exercicis\ExerciciCalcurradora\ExerciciCalcurradora\obj\Debug\ExerciciCalcurradora.pdb
